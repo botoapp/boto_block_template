@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "boto-block-template-v1"
+version = "0.1.0"
+description = ""
+authors = ["tudormunteanu <tudor@boto.io>"]
+readme = "README.md"
+packages = [{include = "boto_block_template_v1"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^7.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
