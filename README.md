@@ -12,3 +12,9 @@
 1. Copy the JSON code from inside `block_config.json` into: [TODO: insert URL].
 1. Publish your block by clicking on the green "Publish" button on [TODO: insert URL].
 
+## To do
+
+1. Don't forget to update this!
+1. Add repo description on GitHub
+1. Figure out how to run tests
+
